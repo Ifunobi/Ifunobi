@@ -4,7 +4,7 @@
 
 <br> 
 
-<img align="right" width="400" src="https://img.freepik.com/premium-zdjecie/wiaz-ilustracja-tapety-inzyniera-devops_959800-158.jpg?w=1480">
+<img align="right" width="460" src="https://img.freepik.com/premium-zdjecie/wiaz-ilustracja-tapety-inzyniera-devops_959800-158.jpg?w=1480">
 
 
 * 💬 Ask me about **Linux, Kubernetes, Devops**
